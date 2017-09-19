@@ -1,0 +1,39 @@
+.links {
+    background-color: #3BB9D8;
+    font-size: 1em;
+    vertical-align: center;
+    padding-top: 2em;
+    text-align: center;
+    color: white;
+    width: auto;
+    height: 3.5em;
+}
+
+#about {
+    padding-right: 2.5em;
+}
+
+#skills {
+    padding-right: 2.5em;
+}
+
+#projects {
+    padding-right: 2.5em;
+}
+
+#resume {
+    padding-right: 2.5em;
+}
+
+.name {
+    width: auto;
+    text-align: center;
+}
+
+.section {
+    width: auto;
+    text-align: center;
+    border-style: none;
+    border-top: solid gray;
+    border-bottom: solid #3BB9D8;
+}
